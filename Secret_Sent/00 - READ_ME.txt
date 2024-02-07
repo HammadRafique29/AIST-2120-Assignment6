@@ -1,0 +1,1 @@
+This "Destination" folder is to hold the encrypted .pdf files.
